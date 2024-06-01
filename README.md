@@ -5,11 +5,11 @@
 💻 I've worked on many projects such as varmet.net and others.
 
 # 🪟 Stack
-HTML
-JS
-CSS
-NEXT.JS
-REACT
+- HTML
+- JS
+- CSS
+- NEXT.JS
+- REACT
 
 
 
