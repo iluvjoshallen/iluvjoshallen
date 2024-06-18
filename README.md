@@ -4,6 +4,8 @@
 
 💻 I've worked on many projects such as varmet.net and others.
 
+📩 Need to contact me? Email me at ```support@varmet.net```! I'll get back ASAP.
+
 # 🪟 Stack
 - HTML
 - JS
