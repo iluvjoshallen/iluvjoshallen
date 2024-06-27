@@ -2,7 +2,7 @@
 
 👋🏻 Hi there. I'm iluvjoshallen and I am a full-stack developer. I can code basically anything you can imagine. I am based in the United States of America. I've worked in Roblox, Visual Studio, and countless other studios.
 
-💻 I've worked on many projects such as varmet.net and others.
+💻 I've worked on many projects such as Varmet (varmet.net), Project Chapter OG (chapterog.com), and others.
 
 📩 Need to contact me? Email me at ```support@varmet.net```! I'll get back ASAP.
 
