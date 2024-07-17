@@ -10,8 +10,10 @@
 - HTML
 - JS
 - CSS
+- C#
 - NEXT.JS
 - REACT
+- ELECTRON
 
 
 
