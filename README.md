@@ -11,9 +11,9 @@
 - JS
 - CSS
 - C#
-- NEXT.JS
-- REACT
-- ELECTRON
+- Next.JS
+- React
+- Electron
 
 
 
