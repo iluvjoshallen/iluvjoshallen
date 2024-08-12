@@ -6,6 +6,8 @@
 
 📩 Need to contact me? Email me at ```support@varmet.net```! I'll get back ASAP.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/574596086052814849)](https://discord.com/users/574596086052814849)
+
 # 🪟 Stack
 - HTML
 - JS
