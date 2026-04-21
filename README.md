@@ -4,8 +4,6 @@
 
 💻 I've worked on many projects such as Varmet (varmet.net), Project Chapter OG (chapterog.com), and others.
 
-📩 Need to contact me? Email me at ```support@chapterog.com```! I'll get back ASAP.
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/574596086052814849)](https://discord.com/users/574596086052814849)
 
 # 🪟 Stack
