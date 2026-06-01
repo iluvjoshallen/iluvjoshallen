@@ -2,20 +2,7 @@
 
 👋🏻 Hi there. I'm iluvjoshallen and I am a full-stack developer. I can code basically anything you can imagine. I am based in the United States of America. I've worked in Roblox, Visual Studio, and countless other studios.
 
-💻 I've worked on many projects such as Varmet (varmet.net), Project Chapter OG (chapterog.com), and others.
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/574596086052814849)](https://discord.com/users/574596086052814849)
-
-# 🪟 Stack
-- HTML
-- JS
-- CSS
-- C#
-- Next.JS
-- React
-- Electron
-
-
+💻 I've worked on many projects such as Varmet, Project Chapter OG, and others. Feel free to view my repositories!
 
 <!--
 **iluvjoshallen/iluvjoshallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
